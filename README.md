@@ -9,6 +9,7 @@ I'm a passionate junior software developer with over 2 years of experience speci
 - **Databases:** SQL, NoSQL
 - **Frontend:** React.js, HTML, CSS
 - **UI/UX:** Figma, Canvas
+- **Version Control**: Github
 
 - ## 🚀 Projects
 
