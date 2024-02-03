@@ -64,9 +64,9 @@ I am always eager to learn and explore new technologies. Currently, I am focused
 
 I'm open to collaboration and discussions. If you have any questions, or suggestions, or just want to chat, feel free to reach out.
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/dzomboallan)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/dzomboallan) -->
 
 Thanks for stopping by! 😊
 
