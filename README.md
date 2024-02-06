@@ -24,7 +24,15 @@ i. Java – used in developing the Android application.
 ii. React.js – used in developing the front end of the web application.
 iii. Firestore – it is a cloud-hosted NoSQL database for the system.
 
-2. **[Local Library Website](https://github.com/dzomboallan/localllibrary)**
+2. **[Authentication System](https://github.com/dzomboallan/authentication-system)**
+## Description:
+An authentication system featuring User Registration, JWT token login with simplejwt, Logout, PasswordReset, and Social authentication with GitHub and Google. Built using a modern web technology stack which includes React.js and Django utilising the Django Rest Framework.
+
+## Technologie:
+i. React.js(vite)
+ii. Django(DRF)
+
+3. **[Local Library Website](https://github.com/dzomboallan/localllibrary)**
 ## Description:
 This is a sample website designed to provide a seamless and enriching experience for book readers, and librarians.
 
@@ -33,14 +41,14 @@ i. Django - used in developing the backend of the website.
 ii. HTML - used in developing the front end of the website.
 iii. Bootstrap.css - used for styling the website's front end 
 
-3. **[FareJudge Reviews App](https://github.com/dzomboallan/FareJudgeReviewsApp)**
+4. **[FareJudge Reviews App](https://github.com/dzomboallan/FareJudgeReviewsApp)**
 ## Description:
 An Android application to check available accommodation sites such as bars, hotels, and restaurants in an area for visitors. Also provides an option to make reviews about the accommodation sites visited.
 
 ## Technologies:
 i. Java
 
-3. **[Notes App]([(https://github.com/dzomboallan/noteApp))**
+5. **[Notes App]([(https://github.com/dzomboallan/noteApp))**
 ## Description:
 An Android Notes application.
 
