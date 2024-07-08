@@ -1,6 +1,6 @@
 ### Hi there, I'm Dzombo Allan 👋
 
-I'm a passionate junior software developer with over 2 years of experience specializing in Backend development. My goal is to evolve into a well-rounded full-stack developer, and I thrive on building robust and efficient software solutions.
+I'm a passionate software developer with over 3 years of experience. I specialize in crafting robust Web, Desktop, and Mobile Applications, with a keen eye for UI/UX design within App and Web Development landscapes. My goal is to evolve into a well-rounded full-stack developer, and I thrive on building robust and efficient software solutions.
 
 ## 🔧 Skills
 
