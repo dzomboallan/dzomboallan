@@ -4,12 +4,13 @@ I'm a passionate junior software developer with over 2 years of experience speci
 
 ## 🔧 Skills
 
-- **Languages:** Java, Python, JavaScript, Kotlin
-- **Frameworks:** React.js, Django, Django-REST Framework, Springboot
+- **Languages:** C#, Java, Python, JavaScript, Kotlin
+- **Frameworks:** React.js, ASP.NET, Django, Django-REST Framework, Springboot
 - **Databases:** SQL, NoSQL
-- **Frontend:** React.js, HTML, CSS
+- **Frontend:** React.js, Angular, DevExpress, HTML, CSS
 - **UI/UX:** Figma, Canvas
-- **Version Control**: Github
+- **Version Control**: Github, GitLab
+- **Collaboration Tool**: Jira
 
 - ## 🚀 Projects
 
