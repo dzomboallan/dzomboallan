@@ -1,12 +1,12 @@
 ### Hi there, I'm Dzombo Allan 👋
 
-I'm a passionate software developer with over 3 years of experience. I specialize in crafting robust Web, Desktop, and Mobile Applications, with a keen eye for UI/UX design within App and Web Development landscapes. My goal is to evolve into a well-rounded full-stack developer, and I thrive on building robust and efficient software solutions.
+I'm a passionate software developer. I specialize in crafting robust Web, Desktop, and Mobile Applications, with a keen eye for UI/UX design within App and Web Development landscapes. My goal is to evolve into a well-rounded full-stack developer, and I thrive on building robust and efficient software solutions.
 
 ## 🔧 Skills
 
 - **Languages:** C#, Java, Python, JavaScript, Kotlin
 - **Frameworks:** React.js, ASP.NET, Django, Django-REST Framework, Springboot
-- **Databases:** SQL, NoSQL
+- **Databases:** PostgreSQL, MySQL, NoSQL
 - **Frontend:** React.js, Angular, DevExpress, HTML, CSS
 - **UI/UX:** Figma, Canvas
 - **Version Control**: Github, GitLab
